@@ -6,7 +6,8 @@ public class CEKT {
 		System.out.println("Beginn der zweiten Aufgabe => Gruppenarbeit");
 		System.out.println("Test");
 		
-		System.out.println("Test2");
+		System.out.println("Test3");
+		
 		
 	
 		
